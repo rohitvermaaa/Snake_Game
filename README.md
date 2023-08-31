@@ -1,2 +1,1 @@
-# Snake_Game
-Snake Game using Python and its library
+Welcome to the Snake Game built using Python and PyLance! This classic game demonstrates the capabilities of Python programming along with the enhanced development experience provided by the PyLance extension.
