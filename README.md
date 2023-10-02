@@ -1,7 +1,5 @@
 # Snake Game
 
-![Gameplay Screenshot](screenshot.png)
-
 ## Overview
 
 This is a simple Snake game implemented in Python using the Pygame library. It's a classic arcade game where the player controls a snake to eat food and grow while avoiding collisions with the boundaries of the game window and the snake's own body.
@@ -39,4 +37,3 @@ python snake_game.py
 
 - Rohit
 
-Make sure to replace "screenshot.png" with an actual screenshot of your game if you have one. Also, replace "Your Name" in the author section with your name or your team's name. You can add more sections or details as needed for your specific project.
